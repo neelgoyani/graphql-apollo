@@ -1,0 +1,11 @@
+.page_title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.register_form {
+  max-width: 400px;
+  margin: auto;
+}
